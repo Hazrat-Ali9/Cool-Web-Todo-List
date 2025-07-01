@@ -5,5 +5,5 @@
 
 # Preview of CoolWeb-todo-list >
 
-![Live Preview]()
+[Live Preview]()
 
