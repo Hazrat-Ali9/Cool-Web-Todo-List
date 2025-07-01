@@ -5,8 +5,9 @@
 
 # Preview of CoolWeb-todo-list >
 
-## LICENSE
-this project under the mit [LICENSE] 
+## License
+
+[MIT License](LICENSE) 
 
 [Live Preview]()
 
